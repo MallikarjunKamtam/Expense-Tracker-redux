@@ -1,0 +1,26 @@
+.take-home-button {
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 3%;
+  background-color: #ac7d88;
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+.modal-inner {
+  padding: 5%;
+  border: 2px solid black;
+  display: block;
+  background-color: #f8ecd1;
+}
+
+.fi-rr-checkbox {
+  font-size: 5rem;
+  margin: 20px;
+}
+
+.modal-label {
+  font-size: 3rem;
+}

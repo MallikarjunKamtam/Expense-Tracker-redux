@@ -1,0 +1,70 @@
+.home-fold {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  width: 70%;
+  margin: auto;
+}
+.search-bar {
+  border: 2px solid black;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+}
+
+.search-bar input {
+  background-color: #f8ecd1;
+  border: none;
+  height: 30px;
+  border-radius: 6px;
+}
+
+.add-expense {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 6px;
+  border: 2px solid black;
+
+  padding: 5px;
+  background-color: #f8ecd1;
+  cursor: pointer;
+}
+
+.add-expense i {
+  margin-left: 3px;
+}
+
+.other-fold {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.other-fold-back {
+  display: flex;
+  border: 2px solid black;
+  justify-content: center;
+  background-color: #deb6ab;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.other-fold-cancel {
+  display: flex;
+  border: 2px solid black;
+  cursor: pointer;
+  background-color: #deb6ab;
+  align-items: center;
+  padding: 5px;
+  border-radius: 6px;
+  justify-content: center;
+}
+
+.top-fold {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
